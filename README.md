@@ -1,1 +1,2 @@
 # TimeNTP_ESP8266WiFi_TM1638_led_Alarm_Radio
+TimeNTP_ESP8266WiFi_TM1638_led_Alarm_Radio，使用esp8266,TM1638,TEA5767做的数显闹钟，和定时收音机。
